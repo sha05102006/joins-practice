@@ -23,3 +23,15 @@ This repository serves as a dedicated resource for anyone seeking to deepen thei
 The repository is structured to cater to a diverse range of learners, from beginners taking their first steps in SQL to experienced developers looking to solidify their knowledge. The content is presented in a clear and accessible manner, breaking down complex topics into digestible segments. Each JOIN type is meticulously explained, accompanied by illustrative examples that demonstrate its application in real-world scenarios.
 
 This repository is designed to be a one-stop shop for everything related to SQL JOIN operations. It is intended to be used as a learning tool, a reference guide, and a practice environment.
+
+##OUTPUT FOR INNER JOIN
+
+![Image](https://github.com/user-attachments/assets/f8b1c4c7-1ca8-47cd-b64c-6142644f3c39)
+
+##OUTPUT FOR LEFT JOIN
+
+
+##OUTPUT FOR RIGHT JOIN
+
+
+##OUTPUT FOR FULL JOIN
