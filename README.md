@@ -29,7 +29,7 @@ This repository is designed to be a one-stop shop for everything related to SQL 
 ![Image](https://github.com/user-attachments/assets/f8b1c4c7-1ca8-47cd-b64c-6142644f3c39)
 
 ##OUTPUT FOR LEFT JOIN
-
+![Image](https://github.com/user-attachments/assets/ba59ac38-eda0-44f0-b381-48894dd5d540)
 
 ##OUTPUT FOR RIGHT JOIN
 
