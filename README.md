@@ -35,3 +35,4 @@ This repository is designed to be a one-stop shop for everything related to SQL 
 ![Image](https://github.com/user-attachments/assets/ddf4548f-58a6-4f61-99dd-8c18f153e403)
 
 ##OUTPUT FOR FULL JOIN
+![Image](https://github.com/user-attachments/assets/0a4abfb0-4cbc-4d02-a9da-3e79649f8de8)
